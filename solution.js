@@ -5684,5 +5684,7 @@ const noun = [
   "zoot-suit",
   "zucchini",
    "Saturo",
-   "Gojo"
+   "Gojo",
+   "Uchiha",
+   "Kagura"
 ];
